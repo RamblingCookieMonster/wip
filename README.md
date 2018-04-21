@@ -6,7 +6,8 @@ These will eventually find a home in another repo, or be abandoned here
 
 **WARNING**:
 
-  * Here be janky things
+  * Here be janky and dangerous things
+  * Don't use these things without reading through them.  Even then, consider what could go wrong...
   * Much of this stuff will legit not work.  It's a work in progress
   * Documentation may or may not exist, and likely won't be up to date
 
